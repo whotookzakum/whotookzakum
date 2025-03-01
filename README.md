@@ -1,4 +1,6 @@
-### Preferred Tools
+### i make websites for games 🍸
+
+<!-- ### Preferred Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -62,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-</div>
+</div> -->
 
 <!-- 
 ######
